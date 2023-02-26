@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "app",
+            "outputPath": "app/keep-fit",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
